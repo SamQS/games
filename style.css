@@ -374,7 +374,9 @@ body {
         width: 0;
     }
     .logo-3{
-        width: 0;
+        width: 100px;
+        height: 100px;
+        margin-left:110px ;
     }
     .menu label{
         display: initial;
@@ -420,6 +422,7 @@ body {
 
     .btn-1{
         padding: 10px 25px;
+        margin: 10px 0 0 0;
     }
     .slider-img{
         width: 100%;
@@ -427,7 +430,9 @@ body {
     }
 
     .slider-img img{
-        margin-left: 70px ;
+        margin-left: 65px ;
+        margin-bottom: 60px ;
+        width: 90%;
        
     }
 
@@ -455,8 +460,8 @@ body {
         text-align: center;
     }
     .info-img img{
-        width: 400px;
-        height: 200px;
+        width: 200px;
+        height: 100px;
         margin-bottom:25px ;
     }
     .info-txt{
@@ -464,7 +469,7 @@ body {
         text-align: center;
     }
     .info-txt h2{
-        font-size: 50px;
+        font-size: 40px;
     }
     .info-txt p{
         font-size: 16px;
