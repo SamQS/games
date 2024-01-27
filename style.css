@@ -427,8 +427,8 @@ body {
     }
 
     .slider-img img{
-        margin-right: 0px ;
-       width: 300px;
+        margin-left: 70px ;
+       
     }
 
     .swiper-horizontal > .swiper-pagination-bullets, 
